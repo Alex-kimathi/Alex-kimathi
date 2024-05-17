@@ -1,4 +1,4 @@
-<h1 align="left">Hi there i'm Alex Kimathi</h1>
+<h1 align="left">Hi there i'm Alex</h1>
 <h5 align="left">Welcome to my GitHub profile! I'm on an exciting journey to become a skilled software engineer, and I'm deeply passionate about the intersection of technology and customer success service. Currently, I'm immersed in the world of C programming, honing my coding skills to create efficient and innovative solutions. In addition to my coding adventures, I'm a creative spirit with a knack for graphic design. I love turning ideas into visually appealing designs that captivate and communicate. Join me as I explore the realms of software development, share my projects, and embrace the ever-evolving world of technology. Let's connect and collaborate to create amazing things together! 🚀💻🌐</h5>
 
 - 🌱 I’m currently learning **software engineering at ALX africa**
